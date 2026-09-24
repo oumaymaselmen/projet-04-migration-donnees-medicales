@@ -91,3 +91,6 @@ Pour garantir l'intégrité des données médicales lors de la migration, le pro
     * Validation de la conversion des montants financiers (Billing Amount).
     * Validation du nettoyage et du formatage des noms de patients.
 * **Exécution** : Les tests sont conçus pour être lancés dans l'environnement Dockerisé, garantissant que le script de migration est stable avant l'injection en base de données.
+
+## Résultats
+Migration conteneurisée de données médicales avec contrôles qualité
